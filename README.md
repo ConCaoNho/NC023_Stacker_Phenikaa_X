@@ -1,0 +1,4 @@
+- Điều khiển càng nâng hạ bằng tín hiệu analog
+- Điều khiển càng nâng hạ thông qua Handled Control
+- Đọc tín hiệu encoder Traction E80H30-1024-3-N-24, chuyển sang vận tốc m/s
+- Đọc tín hiệu encoder Steering EH3-11PG8941A, chuyển dữ liệu sang góc (Độ) 
